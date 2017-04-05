@@ -1,0 +1,13 @@
+{
+  "name": "find-api",
+  "description": "This app does one little thing, and does it well.",
+  "repository": "https://github.com/otaroo/node-find-api",
+  "keywords": [
+    "node",
+    "api",
+    "game"
+  ],
+  "logo": "https://afternoon-ridge-90621.herokuapp.com/logo.svg",
+  "image": "heroku/nodejs"
+
+}
