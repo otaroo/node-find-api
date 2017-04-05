@@ -8,6 +8,12 @@
     "game"
   ],
   "logo": "https://afternoon-ridge-90621.herokuapp.com/logo.svg",
-  "image": "heroku/nodejs"
-
+  "image": "heroku/nodejs",
+  "environments": {
+    "test": {
+      "scripts": {
+        "test": "node index.js"
+      }
+    }
+  }
 }
